@@ -16,6 +16,8 @@ import android.os.Build;
  * @author Majo
  *
  * $Id$
+ * 
+ * maby
  */
 public class MainActivity extends Activity {
 
